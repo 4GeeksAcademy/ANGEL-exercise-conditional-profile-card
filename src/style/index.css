@@ -47,6 +47,10 @@
   border: 5px solid #fff;
   border-radius: 50%;
 }
+.widget .names {
+  display: flex;
+}
+
 .widget h1,
 .widget h2,
 .widget h3 {
